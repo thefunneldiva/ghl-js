@@ -15,6 +15,7 @@ setTimeout(function() {
     checkbox.click();  // This will simulate a user click
     checkbox.checked = true;  // Make sure it stays checked
   }
+  console.log('Must checked');
 }, 17000);
 
 console.log("JS From Github");
