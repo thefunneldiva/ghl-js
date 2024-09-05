@@ -3,3 +3,5 @@ var checkbox = document.querySelector('input[name="terms_and_conditions"]');
 if (checkbox) {
   checkbox.checked = true;  // Set it to checked by default
 }
+
+console.log("JS From Github");
